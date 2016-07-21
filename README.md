@@ -1,3 +1,4 @@
 # Probando GIT
 
-Creando un repositorio
+Creando un repositorio.
+Haciendo un cambio en github.
